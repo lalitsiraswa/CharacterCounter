@@ -1,0 +1,2 @@
+# CharacterCounter
+Python Project
